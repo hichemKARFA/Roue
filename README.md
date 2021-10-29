@@ -8,7 +8,8 @@ V2 29/10/2021 :
 
 - L'affichage des joueurs se fait désormais par team et non plus aléatoirement.
 
-Voici un exemple d'affichage : 
+Voici un exemple d'affichage :
 
+![Image affichage V2](image/affichage.PNG "Image affichage V2")
 
 Merci pour vos nombreux retours :) !
