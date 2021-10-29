@@ -1,4 +1,4 @@
-public class Player {
+public class Player implements Comparable<Player> {
     private String name;
     private Role role;
     private int team;
@@ -35,5 +35,10 @@ public class Player {
 
     public void setName(String name) {
         this.name = name;
+    }
+
+    @Override
+    public int compareTo(Player p1) {
+        return (this.team - p1.team);
     }
 }
