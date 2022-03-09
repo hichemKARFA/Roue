@@ -1,8 +1,5 @@
 # Roue
-V1 : 
-
-
-V2 29/10/2021 :
+V1.2 29/10/2021 :
 
 - Le numéro des teams commence par 1 et non plus 0 !
 
@@ -13,3 +10,9 @@ Voici un exemple d'affichage :
 ![Image affichage V2](image/affichage.PNG "Image affichage V2")
 
 Merci pour vos nombreux retours :) !
+
+V1.1 20/10/2021 : 
+
+Lancement de la première version de la roue
+
+la roue affiche dans un ordre aléatoire le nom des joueurs ainsi que leurs rôles/numéro de team (0 pour la première et 1 pour la seconde)
