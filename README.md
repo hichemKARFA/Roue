@@ -13,6 +13,8 @@ Merci pour vos nombreux retours :) !
 
 V1.1 20/10/2021 : 
 
-Lancement de la première version de la roue
+C'est le début du projet ! 
 
-la roue affiche dans un ordre aléatoire le nom des joueurs ainsi que leurs rôles/numéro de team (0 pour la première et 1 pour la seconde)
+On commence très fort avec la première version de la roue, voici son fonctionnement pour le moment :
+
+- La roue affiche dans un ordre aléatoire le nom des joueurs ainsi que leurs rôles/numéro de team (0 pour la première et 1 pour la seconde)
